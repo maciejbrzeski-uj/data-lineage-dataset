@@ -1,6 +1,6 @@
 # Data Lineage Dataset
 
-This dataset was published in connection with a submission to the AI VLDB Workshop.
+This dataset was published in connection with a submission to the AIDB VLDB Workshop.
 
 The data originates from schema.org. Based on that, we generated sample schemas along with data lineage relationships between them. The generated datasets reflect realistic structure, statistical properties, and common naming conventions used in database schemas.
 
